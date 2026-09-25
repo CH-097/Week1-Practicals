@@ -1,10 +1,6 @@
 ﻿/*
  * Week 1 Practicals
- * Task 1
- * Task 2
- * Task 3
- * Task 4
- * Task 5
+ * Complete 5 tasks using C# programming language
 */
 
 
@@ -26,4 +22,13 @@
 
 
 // Task 4: Leap year checker
-// 
+// check is given year is a leap year
+// its a leap year if: - Divisible by 4
+//                     - not divisible by 100
+//                     - or alternatively divisible by 400
+// test with inputs: -5, 2023 and 2024
+
+
+// Task 5: Even or odd checker 
+// Use IF-ELSE to check parity
+// takes integer as input and checks if it is even or odd
