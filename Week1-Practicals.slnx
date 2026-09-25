@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="Task-1/Task-1.csproj" Id="c4f1a601-0085-41ad-9e2a-6c4d5d7b0017" />
+  <Project Path="Task-2/Task-2.csproj" Id="7adc1c3e-c507-443d-a50c-8b6c3fd64efb" />
+  <Project Path="Task-3/Task-3.csproj" Id="de85c4f0-4bad-4ab4-8f3c-c0cc4f8347de" />
+  <Project Path="Task-4/Task-4.csproj" Id="5090d6dd-4f0a-4655-9a7d-29cb51d287a1" />
+  <Project Path="Task-5/Task-5.csproj" Id="14a36e89-0f81-4b42-a99a-5d88ab009176" />
   <Project Path="Week1-Practicals/Week1-Practicals.csproj" />
 </Solution>
